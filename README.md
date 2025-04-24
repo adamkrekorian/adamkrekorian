@@ -1,6 +1,6 @@
 Hi, I’m @adamkrekorian!
 
-I am a Software Engineer II at Microsoft Azure. I was previously a master's student at Duke University in Electrical and Computer Engineering with a focus on Machine Learning and Signal Processing. I graduated from Duke undergrad in Spring 2021 with a bachelor's degree in Biomedical Engineering and Computer Science.
+I am a Software Engineer II at Microsoft Azure. Previously, I was an Electrical and Computer Engineering master's student at Duke University, studying with a focus in Machine Learning and Signal Processing. I also graduated from Duke in Spring 2021 with a bachelor's degree in Biomedical Engineering and Computer Science.
 
 <!---
 adamkrekorian/adamkrekorian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
